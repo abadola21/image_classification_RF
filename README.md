@@ -1,4 +1,7 @@
 # image_classification_RF
-Hyperspectral image classification using GDAL
+Hyperspectral image classification
 
-Random Forest classification including parameter optimization and Feature importance.
+**Dependencies**
+GDAL, Numpy, Pandas, scikit-learn
+
+Random Forest classification, including parameter optimization and Feature importance.
